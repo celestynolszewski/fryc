@@ -1,0 +1,7 @@
+{imap.gmail.com:993/imap/ssl};gmail.com;gazeta.pl;
+{poczta.o2.pl:993/imap/ssl};o2.pl;tlen.pl;prokonto.pl;go2.pl;
+{imap.wp.pl:993/imap/ssl};wp.pl;wp.eu;
+{poczta.interia.pl:993/imap/ssl};interia.pl;interia.eu;poczta.fm;
+{imap.poczta.onet.pl:993/imap/ssl};poczta.onet.pl;onet.pl;onet.eu;vp.pl;op.pl;spoko.pl;vip.onet.pl;autograf.pl;onet.com.pl;opoczta.pl;buziaczek.pl;amorki.pl;buziaczki.onet.pl;poczta.onet.eu;
+{imap.mail.yahoo.com:993/imap/ssl};yahoo.com;
+{imap-mail.outlook.com:993/imap/ssl};hotmail.com;
